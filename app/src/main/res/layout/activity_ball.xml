@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.liruibao.exprogress.BallActivity">
-    <com.example.liruibao.exprogress.BallView
+    <com.example.liruibao.exprogress.view.BallView
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
