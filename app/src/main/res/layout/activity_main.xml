@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.liruibao.exprogress.MainActivity">
 
-    <com.example.liruibao.exprogress.ExProgressView
+    <com.example.liruibao.exprogress.view.ExProgressView
         android:id="@+id/exPro"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -28,7 +28,7 @@
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
-    </com.example.liruibao.exprogress.ExProgressView>
+    </com.example.liruibao.exprogress.view.ExProgressView>
 
 
 </LinearLayout>

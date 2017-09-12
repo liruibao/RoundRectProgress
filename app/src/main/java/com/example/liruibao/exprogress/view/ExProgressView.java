@@ -1,4 +1,4 @@
-package com.example.liruibao.exprogress;
+package com.example.liruibao.exprogress.view;
 
 import android.content.Context;
 import android.graphics.Canvas;
